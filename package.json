@@ -1,0 +1,11 @@
+{
+  "name": "skeleton-itcss",
+  "version": "0.0.1",
+  "private": true,
+  "homepage": "https://github.com/mehmetkose/skeleton-itcss",
+  "author": "@mehmetkose",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-minify-css": "~1.2.3"
+  }
+}
